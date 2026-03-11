@@ -1,0 +1,8 @@
+{
+    "fox_latest": "https://moxie.foxnews.com/google-publisher/latest.xml",
+    "nyt_latest": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "guardian_latest": "https://www.theguardian.com/europe/rss",
+    "bbc_latest": "https://feeds.bbci.co.uk/news/rss.xml",
+    "dailyMail_latest": "https://www.dailymail.co.uk/articles.rss",
+    "sky_latest": "https://feeds.skynews.com/feeds/rss/home.xml"
+}
